@@ -2,8 +2,6 @@ package aplicacao;
 
 import chess.ChessPiece;
 
-import java.sql.SQLOutput;
-
 public class UI {
 
     public static void printBoard(ChessPiece[][] pieces){
